@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"pr-finder/app"
+	"pull-request-finder/app"
 )
 
 func main() {

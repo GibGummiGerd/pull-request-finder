@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-	"pr-finder/configuration"
-	"pr-finder/models"
+	"pull-request-finder/configuration"
+	"pull-request-finder/models"
 	"time"
 )
 

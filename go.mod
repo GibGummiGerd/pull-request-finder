@@ -1,4 +1,4 @@
-module pr-finder
+module pull-request-finder
 
 go 1.18
 
